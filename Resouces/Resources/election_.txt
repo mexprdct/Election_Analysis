@@ -1,0 +1,18 @@
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+
+County Votes:
+Arapahoe: 0.0% (1)
+-------------------------
+County with the Largest Turnout: 
+Turnout: Arapahoe
+-------------------------
+Raymon Anthony Doane: 0.0% (1)
+-------------------------
+Winner: Raymon Anthony Doane
+Winning Vote Count: 0
+Winning Percentage: 0.0%
+-------------------------
